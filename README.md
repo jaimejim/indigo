@@ -83,7 +83,7 @@ You can test your app with:
 ```bash
 npm run test
 # or
-bundle exec htmlproof ./_site
+bundle exec htmlproofer ./_site
 ````
 
 ## Donate
